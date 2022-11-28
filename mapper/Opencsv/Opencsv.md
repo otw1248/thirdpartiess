@@ -1,0 +1,2 @@
+https://opencsv.sourceforge.net/
+Opencsv is an easy-to-use CSV (comma-separated values) parser library for Java. It was developed because all the CSV parsers at the time didn’t have commercial-friendly licenses. Java 8 is currently the minimum supported version.
